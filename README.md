@@ -1,4 +1,4 @@
-# 11 Express.js: Note Taker
+# Express Note Taker
 An express note taking app that serves static html files and expose api routes to get, creat, and delete notes. This was created as part of UC davis coding bootcamp challenges.
 
 ## Static Files Routes
